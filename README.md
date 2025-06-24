@@ -23,7 +23,7 @@ Este proyecto consiste en controlar la posición de una pelota de ping pong susp
 
 
 Si deseas contactarme para más detalles, puedes hacerlo a través de mi correo:
-
+You can ask for more details here:
 **Benjamín C.**  
 bcollao.17@gmail.com  
 Ingeniería Civil Eléctrica – PUCV  
