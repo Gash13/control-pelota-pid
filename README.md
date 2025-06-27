@@ -6,7 +6,7 @@ Este proyecto consiste en controlar la posición de una pelota de ping pong susp
 
 - Arduino UNO
 - Sensor ultrasónico HC-SR04
-- MOSFET IRFZ44N (o equivalente)
+- MOSFET IRLZ44N (o equivalente)
 - Motor de aspiradora 7.4 V
 - Batería de 7.4 V de ion-litio (son dos celdas 18650)
 - Diodo 1N4001 (flyback)
